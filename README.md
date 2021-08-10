@@ -1,2 +1,2 @@
-# aboutme
-The first website i designed lol. How time flies
+# The first website i designed lol. How time flies
+
